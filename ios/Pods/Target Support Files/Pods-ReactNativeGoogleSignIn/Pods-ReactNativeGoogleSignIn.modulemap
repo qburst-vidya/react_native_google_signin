@@ -1,0 +1,6 @@
+module Pods_ReactNativeGoogleSignIn {
+  umbrella header "Pods-ReactNativeGoogleSignIn-umbrella.h"
+
+  export *
+  module * { export * }
+}
