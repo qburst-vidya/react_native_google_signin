@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Android
+android/app/build/
+android/build/
+android/.cxx/
+**/android/build/
+**/build/intermediates/
+**/*.apk
+**/*.aab
+
+# iOS
+ios/build/
+.DS_Store
